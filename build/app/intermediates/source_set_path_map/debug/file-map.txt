@@ -1,0 +1,36 @@
+com.example.hisaabkitaab_main.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-0 C:\Users\thaku\.gradle\caches\transforms-3\066b657ac1dbf4221aab2808144f2874\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.hisaabkitaab_main.app-jetified-startup-runtime-1.1.1-1 C:\Users\thaku\.gradle\caches\transforms-3\0767b23521f1cf5aafed2308ea25a765\transformed\jetified-startup-runtime-1.1.1\res
+com.example.hisaabkitaab_main.app-jetified-savedstate-1.2.1-2 C:\Users\thaku\.gradle\caches\transforms-3\100f2208dfdabee97c8ddb21005bbc52\transformed\jetified-savedstate-1.2.1\res
+com.example.hisaabkitaab_main.app-jetified-play-services-base-18.1.0-3 C:\Users\thaku\.gradle\caches\transforms-3\13beb97871bacead349918ab2efad008\transformed\jetified-play-services-base-18.1.0\res
+com.example.hisaabkitaab_main.app-browser-1.4.0-4 C:\Users\thaku\.gradle\caches\transforms-3\162e57b214e200a6207c40330426bda2\transformed\browser-1.4.0\res
+com.example.hisaabkitaab_main.app-lifecycle-viewmodel-2.6.1-5 C:\Users\thaku\.gradle\caches\transforms-3\163b95b83835948ce3840986f39c6869\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.hisaabkitaab_main.app-jetified-play-services-basement-18.3.0-6 C:\Users\thaku\.gradle\caches\transforms-3\26d6b33f7c8dbe5b7e95963316e0f3cb\transformed\jetified-play-services-basement-18.3.0\res
+com.example.hisaabkitaab_main.app-lifecycle-livedata-core-2.6.1-7 C:\Users\thaku\.gradle\caches\transforms-3\4be12c591a9833e2430657cefea06f9e\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.hisaabkitaab_main.app-jetified-window-java-1.0.0-beta04-8 C:\Users\thaku\.gradle\caches\transforms-3\4f8a10da11d41b9ccabff01515190014\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.hisaabkitaab_main.app-jetified-core-ktx-1.10.1-9 C:\Users\thaku\.gradle\caches\transforms-3\52094026b8e153050982416164376f68\transformed\jetified-core-ktx-1.10.1\res
+com.example.hisaabkitaab_main.app-jetified-firebase-common-20.4.2-10 C:\Users\thaku\.gradle\caches\transforms-3\820123943a4712123f10546b95e40f04\transformed\jetified-firebase-common-20.4.2\res
+com.example.hisaabkitaab_main.app-jetified-play-services-auth-20.4.0-11 C:\Users\thaku\.gradle\caches\transforms-3\91768a199a4d788e140fa1e6df2f84f2\transformed\jetified-play-services-auth-20.4.0\res
+com.example.hisaabkitaab_main.app-lifecycle-runtime-2.6.1-12 C:\Users\thaku\.gradle\caches\transforms-3\9ef3829d2ce82dd3d2c5a4157cc9b7db\transformed\lifecycle-runtime-2.6.1\res
+com.example.hisaabkitaab_main.app-jetified-activity-1.7.2-13 C:\Users\thaku\.gradle\caches\transforms-3\b47d4416b2ac22b7a1a850d5b0b4866d\transformed\jetified-activity-1.7.2\res
+com.example.hisaabkitaab_main.app-core-runtime-2.2.0-14 C:\Users\thaku\.gradle\caches\transforms-3\b7989db408e59e601567a8e3e4f2bf8d\transformed\core-runtime-2.2.0\res
+com.example.hisaabkitaab_main.app-core-1.10.1-15 C:\Users\thaku\.gradle\caches\transforms-3\c66a84034fdee472d77a2fc15f5cce5d\transformed\core-1.10.1\res
+com.example.hisaabkitaab_main.app-jetified-annotation-experimental-1.3.0-16 C:\Users\thaku\.gradle\caches\transforms-3\ea98569cbc8d9745f74e7aee5463206c\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.hisaabkitaab_main.app-lifecycle-livedata-2.6.1-17 C:\Users\thaku\.gradle\caches\transforms-3\f51173b938578942136a18daa1d5ec05\transformed\lifecycle-livedata-2.6.1\res
+com.example.hisaabkitaab_main.app-jetified-window-1.0.0-beta04-18 C:\Users\thaku\.gradle\caches\transforms-3\fa8aad42c825af1f34f93ab9a34c8ecb\transformed\jetified-window-1.0.0-beta04\res
+com.example.hisaabkitaab_main.app-jetified-profileinstaller-1.3.0-19 C:\Users\thaku\.gradle\caches\transforms-3\fd4582ce04fab3ff2d77ff157c5e42e3\transformed\jetified-profileinstaller-1.3.0\res
+com.example.hisaabkitaab_main.app-debug-20 E:\backup\Flutter project\hisaabkitaab_main\android\app\src\debug\res
+com.example.hisaabkitaab_main.app-main-21 E:\backup\Flutter project\hisaabkitaab_main\android\app\src\main\res
+com.example.hisaabkitaab_main.app-google-services-22 E:\backup\Flutter project\hisaabkitaab_main\build\app\generated\res\google-services\debug
+com.example.hisaabkitaab_main.app-pngs-23 E:\backup\Flutter project\hisaabkitaab_main\build\app\generated\res\pngs\debug
+com.example.hisaabkitaab_main.app-resValues-24 E:\backup\Flutter project\hisaabkitaab_main\build\app\generated\res\resValues\debug
+com.example.hisaabkitaab_main.app-rs-25 E:\backup\Flutter project\hisaabkitaab_main\build\app\generated\res\rs\debug
+com.example.hisaabkitaab_main.app-mergeDebugResources-26 E:\backup\Flutter project\hisaabkitaab_main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.hisaabkitaab_main.app-mergeDebugResources-27 E:\backup\Flutter project\hisaabkitaab_main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.hisaabkitaab_main.app-merged_res-28 E:\backup\Flutter project\hisaabkitaab_main\build\app\intermediates\merged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-29 E:\backup\Flutter project\hisaabkitaab_main\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-30 E:\backup\Flutter project\hisaabkitaab_main\build\firebase_auth\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-31 E:\backup\Flutter project\hisaabkitaab_main\build\firebase_core\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-32 E:\backup\Flutter project\hisaabkitaab_main\build\firebase_database\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-33 E:\backup\Flutter project\hisaabkitaab_main\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-34 E:\backup\Flutter project\hisaabkitaab_main\build\image_picker_android\intermediates\packaged_res\debug
+com.example.hisaabkitaab_main.app-packaged_res-35 E:\backup\Flutter project\hisaabkitaab_main\build\smart_auth\intermediates\packaged_res\debug

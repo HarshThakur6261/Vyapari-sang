@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "693411379918",
+    "project_id": "fir-flutter-auth-32fac",
+    "storage_bucket": "fir-flutter-auth-32fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693411379918:android:087e1c7881c4d154552e9f",
+        "android_client_info": {
+          "package_name": "com.example.hisaab_kitaab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693411379918-6rl1rjmhsr83flpem4vu27jsmibi4p2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_UuUA6jWtnXiq15tpflf1GZ-IlMttIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693411379918-6rl1rjmhsr83flpem4vu27jsmibi4p2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693411379918-9pj5sro3gb8t6um3lv86p498d15sf63f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginSignupFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693411379918:android:bee78e5733396335552e9f",
+        "android_client_info": {
+          "package_name": "com.example.hisaabkitaab_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693411379918-6rl1rjmhsr83flpem4vu27jsmibi4p2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_UuUA6jWtnXiq15tpflf1GZ-IlMttIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693411379918-6rl1rjmhsr83flpem4vu27jsmibi4p2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "693411379918-9pj5sro3gb8t6um3lv86p498d15sf63f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginSignupFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

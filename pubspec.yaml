@@ -1,0 +1,59 @@
+name: hisaabkitaabpractice
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: 3.3.0
+
+#------------PACAKAGES----------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+    # UTILITY PACKAGES
+
+
+    # ICONS
+  cupertino_icons: ^1.0.2
+  iconsax: ^0.0.8
+
+  # state management
+  get: ^4.6.6
+  form_field_validator: ^1.1.0
+
+
+  flutter_svg: ^2.0.5
+  firebase_core: ^2.24.2
+  pinput: ^3.0.1
+  firebase_auth: ^4.12.0
+  image_picker: ^1.0.4
+  step_progress_indicator: ^1.0.2
+  cloud_firestore: ^4.15.6
+  firebase_database: ^10.4.10
+  google_sign_in: ^6.2.1
+
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+
+
+
+flutter:
+  uses-material-design: true
+
+  #--------------LOCAL ASSETS-------#
+  assets:
+    - assets/icons/
+    - assets/logos/
+    - assets/images/
+  #-----------LOCAL FONTS----------#
